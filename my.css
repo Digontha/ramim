@@ -1,0 +1,72 @@
+.port {
+
+    color: rgb(34, 32, 28);
+    font: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+.btn {
+
+    color: rgb(10, 9, 8);
+
+
+
+}
+
+button {
+
+    border: 1px solid red;
+
+    padding: 3px;
+
+    border-radius: 5px;
+
+    background-color: beige;
+
+
+
+
+}
+
+button.fa:hover {
+
+    background-color: aqua;
+}
+
+button.you:hover {
+
+    background-color: rgb(10, 79, 79);
+}
+
+.parent {
+
+    text-align: center;
+}
+
+.flex {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    height: 100vh;
+}
+
+img{
+ width: 100px;
+height: 100px;
+}
+
+
+
+.you{
+
+    background-color: green;
+}
+
+.fa{
+
+    background-color: aquamarine;
+}
